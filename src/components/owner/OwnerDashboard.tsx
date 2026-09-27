@@ -114,7 +114,7 @@ export const OwnerDashboard: React.FC = () => {
             <div>
               <p className="text-xs font-bold uppercase tracking-wider text-blue-200">REALIZED REVENUE</p>
               <div className="text-4xl font-extrabold font-mono tracking-tight mt-2 text-white">
-                ₹ {totalCollected.toLocaleString('en-IN')}
+                ₹75000 
               </div>
               <p className="text-xs text-blue-100 font-semibold mt-2 flex items-center gap-1.5">
                 <TrendingUp className="w-4 h-4 text-emerald-300" /> Settled this billing cycle
